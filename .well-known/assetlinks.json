@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ttonanow.ttona",
+    "sha256_cert_fingerprints": ["34:FE:8B:3F:1F:60:7F:F4:22:70:BF:97:5C:FD:6F:A8:A4:EC:E6:FA:CC:89:3D:5B:21:71:59:09:7D:8C:A8:39"]
+  }
+}]
